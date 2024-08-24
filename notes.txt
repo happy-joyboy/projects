@@ -1,0 +1,22 @@
+https://fontawesome.com/icons    : for icons
+
+https://www.frontendmentor.io/challenges?difficulty=1&sort=difficulty%7Casc&type=free
+
+https://www.codementor.io/projects
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding:0;
+}
+here in the beginning the text wasn't aligned due to change in height 
+the logo had differnt height due to icons height
+
+
+line-height: 30px; 
+
+The line-height CSS property sets the height of a line box in horizontal writing modes. In vertical writing modes, it sets the width of a line box. It's commonly used to set the distance between lines of text. On block-level elements in horizontal writing modes, it specifies the preferred height of line boxes within the element, and on non-replaced inline elements, it specifies the height that is used to calculate line box height.
+
+https://cssgradient.io/
